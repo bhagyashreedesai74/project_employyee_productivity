@@ -1,15 +1,13 @@
-# project_employee_productivity
+# project_Employee_productivity_Analysis__
 
-
+## Dashboard
 <img width="1010" height="547" alt="image" src="https://github.com/user-attachments/assets/b1b6255b-2bef-4095-bddd-9dd28ce6e90b" />
-
-
 <img width="1026" height="554" alt="image" src="https://github.com/user-attachments/assets/619d2e11-d282-45db-941d-8dc1f46b1c6d" />
 
-🎯 Objective
+## Objective
 To analyze employee attendance, performance, and project handling efficiency across departments, and identify patterns or outliers that affect productivity.
 
-📌 Key Insights
+## Key Insights
 1. Attendance Rate
 The overall attendance rate is 52%, indicating frequent absenteeism.
 
