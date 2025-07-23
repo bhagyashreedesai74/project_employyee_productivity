@@ -39,7 +39,7 @@ IT lags slightly below the average.
 7. Absenteeism Patterns
 Weekends (Saturday/Sunday) show expected dips, but Tuesday and Friday show notable absences across most departments.
 
-📈 Recommendations
+## Recommendations
 Introduce performance improvement plans for employees with low scores despite high project loads.
 
 Monitor departments with high absenteeism — especially early/late weekdays.
